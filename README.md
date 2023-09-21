@@ -6,33 +6,33 @@ Projeto desenvolvido por Yan Tavares, Pedro Rêgo, Jordan Marques e Cristian Soa
 
 ### Realizar cadastro
 - Fluxo Normal:
-  1. Cliente informa Nome
-  2. Cliente informa CPF
-  3. Cliente informa Número de contato
-  4. Cliente informa E-mail
-  5. Cliente informa Senha
-  6. Sistema cria o usuário
+  - 1. Cliente informa Nome
+  - 2. Cliente informa CPF
+  - 3. Cliente informa Número de contato
+  - 4. Cliente informa E-mail
+  - 5. Cliente informa Senha
+  - 6. Sistema cria o usuário
 - Extensões:
   - 2a. Se o CPF for inválido, solicitar novamente.
   - 5a. Se a senha for inferior a 6 caracteres, solicitar novamente.
 
 ### Realizar login
 - Fluxo Normal:
-  1. Cliente informa email
-  2. Cliente informa senha
-  3. Sistema realiza login
+  - 1. Cliente informa email
+  - 2. Cliente informa senha
+  - 3. Sistema realiza login
 - Extensões:
   - 1a. Se o e-mail for inválido, solicitar novamente.
   - 2a. Se a senha for inválida, solicitar novamente.
 
 ### Realizar pedido
 - Fluxo Normal:
-  1. Cliente explora o cardápio
-  2. Cliente adiciona itens ao carrinho
-  3. Cliente seleciona endereço
-  4. Cliente informa forma de pagamento (Dinheiro/Cartão)
-  5. Cliente verifica o pedido
-  6. Cliente confirma pedido
+  - 1. Cliente explora o cardápio
+  - 2. Cliente adiciona itens ao carrinho
+  - 3. Cliente seleciona endereço
+  - 4. Cliente informa forma de pagamento (Dinheiro/Cartão)
+  - 5. Cliente verifica o pedido
+  - 6. Cliente confirma pedido
 - Extensões:
   - 3a. Se não houver endereço cadastrado, cliente cria endereço.
   - 4a. Se forma de pagamento for dinheiro, cliente informa troco
@@ -40,7 +40,7 @@ Projeto desenvolvido por Yan Tavares, Pedro Rêgo, Jordan Marques e Cristian Soa
 
 ### Criar endereço
 - Fluxo Normal:
-  1. Cliente informa CEP
+  - 1. Cliente informa CEP
   2. Sistema valida o CEP
   3. Sistema preenche informações com base no CEP preenchido
   4. Cliente informa Número

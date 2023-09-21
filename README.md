@@ -253,7 +253,7 @@ Agradecemos a todos que contribuíram para o desenvolvimento deste sistema! 🙌
 
 ## Perfis dos Desenvolvedores no GitHub
 
-- [Perfil do GitHub de Yan Tavares](https://github.com/yantvrs)
-- [Perfil do GitHub de Pedro Rêgo](https://github.com/pedrorvn)
-- [Perfil do GitHub de Jordan Marques](https://github.com/jordanmaramos)
-- [Perfil do GitHub de Cristian Soares](https://github.com/criric)
+- [Cristian Soares](https://github.com/criric)
+- [Jordan Marques](https://github.com/jordanmaramos)
+- [Pedro Rêgo](https://github.com/pedrorvn)
+- [Yan Tavares](https://github.com/yantvrs)

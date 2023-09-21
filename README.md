@@ -5,7 +5,7 @@
 O projeto "Sistema de Delivery" é um sistema de software desenvolvido como parte da disciplina de Projeto de Engenharia de Software, oferecida pela Universidade Federal do Rio Grande do Norte. O objetivo principal deste projeto é criar uma plataforma de delivery de alimentos que permite aos clientes realizar pedidos de restaurantes locais e acompanhar o status de seus pedidos em tempo real. Além disso, o sistema oferece ferramentas de gerenciamento para os restaurantes.
 
 # Casos de uso
-Diagrama de Casos de Uso
+- Diagrama de Casos de Uso
 ![Diagrama de Casos de Uso para o sistema delivery](https://github.com/yantvrs/Projeto_Delivery/blob/main/images/Diagrama%20de%20casos%20de%20uso_page-0001.jpg)
 
 

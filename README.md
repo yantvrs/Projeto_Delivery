@@ -6,15 +6,15 @@ Projeto desenvolvido por Yan Tavares, Pedro Rêgo, Jordan Marques e Cristian Soa
 
 ### Realizar cadastro
 - Fluxo Normal:
-  - Cliente informa Nome
-  - Cliente informa CPF
-  - Cliente informa Número de contato
-  - Cliente informa E-mail
-  - Cliente informa Senha
-  - Sistema cria o usuário
+  1. Cliente informa Nome
+  2. Cliente informa CPF
+  3. Cliente informa Número de contato
+  4. Cliente informa E-mail
+  5. Cliente informa Senha
+  6. Sistema cria o usuário
 - Extensões:
-  - 2a. Se o CPF for inválido, solicitar novamente.
-  - 5a. Se a senha for inferior a 6 caracteres, solicitar novamente.
+   2a. Se o CPF for inválido, solicitar novamente.
+   5a. Se a senha for inferior a 6 caracteres, solicitar novamente.
 
 ### Realizar login
 - Fluxo Normal:

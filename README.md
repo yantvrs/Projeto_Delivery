@@ -1,6 +1,9 @@
 # Sistema de Delivery 🍔🚚
 
-Projeto desenvolvido por Yan Tavares, Pedro Rêgo, Jordan Marques e Cristian Soares como parte da disciplina de Projeto de Engenharia de Software ofertada pela Universidade Federal do Rio Grande do Norte.
+## Visão Geral do Projeto
+
+O projeto "Sistema de Delivery" é um sistema de software desenvolvido como parte da disciplina de Projeto de Engenharia de Software, oferecida pela Universidade Federal do Rio Grande do Norte. O objetivo principal deste projeto é criar uma plataforma de delivery de alimentos que permite aos clientes realizar pedidos de restaurantes locais e acompanhar o status de seus pedidos em tempo real. Além disso, o sistema oferece ferramentas de gerenciamento para os restaurantes.
+
 
 ## Ator 1: Cliente
 

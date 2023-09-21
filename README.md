@@ -6,7 +6,7 @@ Projeto desenvolvido por Yan Tavares, Pedro Rêgo, Jordan Marques e Cristian Soa
 
 ### Realizar cadastro
 - Fluxo Normal:
-  - 1. Cliente informa Nome
+1. Cliente informa Nome
   - 2. Cliente informa CPF
   - 3. Cliente informa Número de contato
   - 4. Cliente informa E-mail

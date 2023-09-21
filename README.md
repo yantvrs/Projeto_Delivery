@@ -243,10 +243,6 @@ O projeto "Sistema de Delivery" é um sistema de software desenvolvido como part
 - Notificações para entregadores sobre pedidos a serem entregues.
 
 
-## Licença 📄
-
-Este projeto é licenciado sob a [MIT License](LICENSE.md).
-
 ## Agradecimentos 👏
 
 Agradecemos a todos que contribuíram para o desenvolvimento deste sistema! 🙌

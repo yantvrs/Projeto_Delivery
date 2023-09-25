@@ -1,7 +1,7 @@
 
 # Casos de uso
 - Diagrama de Casos de Uso
-![Diagrama de Casos de Uso para o sistema delivery](https://github.com/yantvrs/Projeto_Delivery/blob/main/images/Diagrama%20de%20casos%20de%20uso_page-0001.jpg)
+![Diagrama de Casos de Uso para o sistema delivery](https://github.com/yantvrs/Projeto_Delivery/blob/main/images/UseCaseDiagram%20-%20Delivery.png)
 
 
 ## Ator 1: Cliente

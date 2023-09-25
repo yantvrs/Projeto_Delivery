@@ -3,6 +3,9 @@
 ## Cliente:
 
 - Como cliente, desejo me cadastrar na plataforma.
+  - *Deve haver um formulário de registro com campos obrigatórios, como nome, e-mail e senha.
+  - *O sistema deve validar se o e-mail fornecido é único.
+  - *Após o registro bem-sucedido, o cliente deve ser automaticamente redirecionado para a página de login.
 - Como cliente, desejo fazer login na minha conta para fazer pedidos.
 - Como cliente, desejo navegar pelo cardápio, selecionar itens e adicioná-los ao meu pedido.
 - Como cliente, desejo escolher a forma de pagamento, o endereço da entrega e finalizar meu pedido.

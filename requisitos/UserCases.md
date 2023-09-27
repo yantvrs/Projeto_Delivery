@@ -44,7 +44,7 @@
 5. Cliente verifica o pedido
 6. Cliente confirma pedido
 - Extensões:
-  - 3a. Se não houver endereço cadastrado, cliente \_cria endereço\_.
+  - 3a. Se não houver endereço cadastrado, cliente \_cria endereço.\_
   - 4a. Se forma de pagamento for dinheiro, cliente informa troco
   - 5a. Se desejar, cliente pode remover algum item
 

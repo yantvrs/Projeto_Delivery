@@ -44,7 +44,7 @@
 5. Cliente verifica o pedido
 6. Cliente confirma pedido
 - Extensões:
-  - 3a. Se não houver endereço cadastrado, cliente cria endereço.
+  - 3a. Se não houver endereço cadastrado, cliente \_cria endereço\_.
   - 4a. Se forma de pagamento for dinheiro, cliente informa troco
   - 5a. Se desejar, cliente pode remover algum item
 
@@ -165,19 +165,4 @@
 3. Sistema exibe confirmação
 4. Administrador confirma a remoção
 - Extensões:
-  - 5a. Caso negado, Sistema volta para lista de funcionários
-
-## Ator 6: Sistema
-
-### Exibe informações
-- Fluxo Normal:
-1. Sistema verifica perfis de usuários e delimita permissões com base no perfil
-2. Sistema exibe quantidade de entregas efetuadas, em andamento e disponíveis
-3. Sistema notifica todos os usuários sobre status dos pedidos.
-4. Sistema exibe lucro diário ou em determinado período
-5. Sistema exibe quantidade de funcionários por perfil
-6. Sistema exibe quantidade de entregas por entregador
-7. Sistema exibe média dos valores dos pedidos
-8. Sistema exibe tempo médio de entregas
-9. Sistema exibe tempo médio da preparação dos pedidos pela cozinha
-10. Sistema exibe quantidade de usuários cadastrados/utilizando
+  - 4a. Caso negado, Sistema volta para lista de funcionários

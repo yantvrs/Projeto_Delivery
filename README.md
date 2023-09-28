@@ -7,6 +7,7 @@ O projeto "Sistema de Delivery" é um sistema de software desenvolvido como part
 
 ### Documentação dos Requisitos
 
+- [Vídeo explicativo](https://drive.google.com/file/d/1C-ltChVf7OTFM0xXkXIZFq7wx03N9wQl/view?usp=sharing)
 - [Casos de Uso](https://github.com/yantvrs/Projeto_Delivery/blob/main/requisitos/UserCases.md)
 - [Histórias de Usuário](https://github.com/yantvrs/Projeto_Delivery/blob/main/requisitos/UserStory.md)
 
